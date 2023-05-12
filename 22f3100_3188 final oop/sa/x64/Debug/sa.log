@@ -1,0 +1,9 @@
+﻿  driver.cpp
+  implementation.cpp
+C:\Users\Lap_Tech\Desktop\OOP\qasim\qasim\implementation.cpp(379,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lap_Tech\Desktop\OOP\qasim\qasim\implementation.cpp(387,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lap_Tech\Desktop\OOP\qasim\qasim\implementation.cpp(440,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lap_Tech\Desktop\OOP\qasim\qasim\implementation.cpp(448,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Lap_Tech\Desktop\OOP\qasim\qasim\implementation.cpp(48): warning C4715: 'validateChoice': not all control paths return a value
+  sa.vcxproj -> C:\Users\Lap_Tech\Desktop\OOP\sa\x64\Debug\sa.exe
